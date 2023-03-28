@@ -17,7 +17,7 @@ The purpose of this project is to Analysis sales data and create beautiful dashb
 - Power Bi
 
 ## Project Description:
-This repo contains 12 months of sales data of an Electronic store for Analysis, Now when it comes to dashboard everyone has their own way of creating dashboards and visualizing some meaningful insights. As a Data Analyst it is our duty to understand some complex trends/problems and visualize them as easy as we could. I divided this whole process into 4 main parts, hope you enjoyed.
+This repo contains 12 months of sales data of an Electronic store for Analysis, Now when it comes to dashboard everyone has their own way of creating dashboards and visualizing some meaningful insights. As a Data Analyst it is our duty to understand some complex trends/problems and visualize them as easy as we could. I divided this whole process into 5 main parts, hope you enjoyed.
 - Loading Dataset
 - Data Cleaning
 - Adding some Necessary Columns
